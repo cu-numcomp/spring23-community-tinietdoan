@@ -13,24 +13,24 @@ primary audience is.*
 | Repository URL |   https://github.com/xitorch/xitorch  |
 | Main/documentation website |   https://xitorch.readthedocs.io/en/latest/   |
 | Year project was started | 2020  |
-| Number of contributors in the past year | 4 |
-| Number of contributors in the lifetime of the project | 7  |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
+| Number of contributors in the past year | 2 |
+| Number of contributors in the lifetime of the project | 5  |
+| Number of distinct affiliations | >10 |
 | Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
 | Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Typical number of commits per week? | ~5 |
+| Typical commit size | ~2 files changed|
+| How does the project accept contributions? | Pull requests |
+| Does the project have an automated test suite? | No |
+| Does the project use continuous integration? | Yes |
+| Are any legal/licensing steps required to contribute? | No |
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
+- [X] I have installed the software
 - [ ] I have run at least one example
 - [ ] I have run the test suite
 - [ ] The test suite passes
