@@ -32,7 +32,7 @@ encountered a problem.
 
 - [X] I have installed the software
 - [ ] I have run at least one example
-- [ ] I have run the test suite
+- [X] I have run the test suite
 - [ ] The test suite passes
 
 ### Notes/concerns/risks
