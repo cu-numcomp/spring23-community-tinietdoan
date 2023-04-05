@@ -10,11 +10,11 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
+| Repository URL |   https://github.com/xitorch/xitorch  |
+| Main/documentation website |   https://xitorch.readthedocs.io/en/latest/   |
+| Year project was started | 2020  |
+| Number of contributors in the past year | 4 |
+| Number of contributors in the lifetime of the project | 7  |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
 | Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
 | Typical number of emails/comments per week? |   |
